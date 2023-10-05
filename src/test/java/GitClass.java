@@ -6,5 +6,10 @@ public class GitClass {
     //one more comment
     //a new task
 //a new change in the tasks
+    //message nbr 4
+//messahe nbr5
+    //new comment
+//another comment
+
 }
 
